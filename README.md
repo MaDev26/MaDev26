@@ -57,11 +57,4 @@ Specialized in modern frontend frameworks, backend microservices, cloud infrastr
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noeljyoung&theme=radical&hide_border=true)](https://github.com/noeljyoung)
 
-### 🏢 ProCore Productions — *Gardena, CA*
-**Full Stack Engineer** | *2014 – 2016*
-
-✅ Migrated legacy apps to cloud microservices  
-✅ Optimized APIs & caching → **25% performance gain**  
-✅ Participated in Agile delivery & intern mentoring  
-
 ⭐ *If you like my work, feel free to star or fork my repositories!*
